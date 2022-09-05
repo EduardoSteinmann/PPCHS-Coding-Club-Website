@@ -8,7 +8,7 @@ export function App() {
   return (
     <div>
       <header>
-        <h1>Eduardo has bought this website.</h1>
+        <h1>PPCHS Coding Club website</h1>
       </header>
       <Routes>
         <Route path="/" element={<Home />} />

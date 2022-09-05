@@ -24524,7 +24524,7 @@ function App() {
         children: [
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("header", {
                 children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("h1", {
-                    children: "Eduardo has bought this website."
+                    children: "PPCHS Coding Club website"
                 }, void 0, false, {
                     fileName: "src/App.js",
                     lineNumber: 11,
@@ -24597,7 +24597,7 @@ function Home() {
         children: [
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("main", {
                 children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("p", {
-                    children: "Try again later, gorilla "
+                    children: " PPCHS Coding Club website home "
                 }, void 0, false, {
                     fileName: "src/Home.js",
                     lineNumber: 7,

@@ -4,7 +4,7 @@ export function Home   () {
     return (
         <>
             <main>
-                <p>Try again later, gorilla </p>
+                <p> PPCHS Coding Club website home </p>
             </main>
             <nav>
                 <Link to="/PicturePage">Page with a svg picture</Link>
