@@ -1,4 +1,4 @@
-# PPCHSGrind
+# PPCHS Club Website
 
 This repo is a private template for websites made with React, bundled with Parcel, and hosted on Github Pages. 
 
